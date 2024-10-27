@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+      "target": "ES6", // o la versión que estés utilizando
+      "module": "commonjs",
+      "strict": true,
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "types": ["node"] // Asegúrate de incluir "node" aquí
+  }
+}
